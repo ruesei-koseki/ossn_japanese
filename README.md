@@ -3,14 +3,14 @@ Language pack for ossn (opensource-socialnetwork).
 
 # japanese 日本語
 これは、ossn（opensource-socialnetwork）の言語パックです。
-まだ翻訳が終わっていないので、ベーターリリースです。
+翻訳はまだ終了していませんが、ほとんど利用可能です。
 あなたは翻訳を手伝うこともできます。
 
-[リポジトリ](https://github.com/ryusei-koseki/ossn_japanese/)
+[リポジトリ](https://github.com/ryusei-koseki/ossn_japanese/)：https://github.com/ryusei-koseki/ossn_japanese/
 
 # Engrish
 This is an ossn (opensource-socialnetwork) language pack.
-The translation is not finished yet, so it is a beta release.
+Translation is not finished yet, but it is almost available.
 You can also help with translation.
 
-[Repository](https://github.com/ryusei-koseki/ossn_japanese/)
+[Repository](https://github.com/ryusei-koseki/ossn_japanese/):https://github.com/ryusei-koseki/ossn_japanese/
