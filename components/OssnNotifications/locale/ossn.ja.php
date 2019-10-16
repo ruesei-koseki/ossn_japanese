@@ -10,31 +10,31 @@
  */
 
 $ja = array(
-    'ossn:notifications:comments:post' => "%s commented on the post.",
-    'ossn:notifications:like:post' => "%s liked your post.",
-    'ossn:notifications:like:annotation' => "%s liked your comment.",
-    'ossn:notifications:like:entity:file:ossn:aphoto' => "%s liked your photo.",
-    'ossn:notifications:comments:entity:file:ossn:aphoto' => '%s commented on your photo.',
-    'ossn:notifications:wall:friends:tag' => '%s tagged you in a post.',
-    'ossn:notification:are:friends' => 'You are now friends!',
-    'ossn:notifications:comments:post:group:wall' => "%s commented on the group post.",
-    'ossn:notifications:like:entity:file:profile:photo' => "%s liked your profile photo.",
-    'ossn:notifications:comments:entity:file:profile:photo' => "%s commented your the profile photo.",
-    'ossn:notifications:like:entity:file:profile:cover' => "%s liked your profile cover.",
-    'ossn:notifications:comments:entity:file:profile:cover' => "%s commented on your profile cover.",
+    'ossn:notifications:comments:post' => "%s さんが投稿にコメントしました。",
+    'ossn:notifications:like:post' => "%s さんが投稿にいいね！しました。",
+    'ossn:notifications:like:annotation' => "%s さんがあなたのコメントにいいね！しました。",
+    'ossn:notifications:like:entity:file:ossn:aphoto' => "%s さんがあなたの写真にいいね！しました。",
+    'ossn:notifications:comments:entity:file:ossn:aphoto' => '%s さんがあなたの写真にコメントしました。',
+    'ossn:notifications:wall:friends:tag' => '%s さんが投稿であなたのタグを付けました。',
+    'ossn:notification:are:friends' => 'あなたは今友達です！',
+    'ossn:notifications:comments:post:group:wall' => "%s さんがグループの投稿にコメントしました。",
+    'ossn:notifications:like:entity:file:profile:photo' => "%s さんはあなたのプロフィール写真にいいね！しました。",
+    'ossn:notifications:comments:entity:file:profile:photo' => "%s さんはあなたのプロフィール写真にコメントしました。",
+    'ossn:notifications:like:entity:file:profile:cover' => "%s さんがあなたのプロフィールカバーにいいね！しました。",
+    'ossn:notifications:comments:entity:file:profile:cover' => "%s さんがあなたのプロフィールカバーにコメントしました。",
 
-    'ossn:notifications:like:post:group:wall' => '%s liked your post.',
+    'ossn:notifications:like:post:group:wall' => '%s さんがあなたのグループの投稿にいいね！しました。',
 	
-    'ossn:notification:delete:friend' => 'Friend request deleted!',
-    'notifications' => 'Notifications',
-    'see:all' => 'See All',
-    'friend:requests' => 'Friend Requests',
-    'ossn:notifications:friendrequest:confirmbutton' => 'Confirm',
-    'ossn:notifications:friendrequest:denybutton' => 'Deny',
+    'ossn:notification:delete:friend' => '友達リクエストを削除しました！',
+    'notifications' => '通知',
+    'see:all' => 'すべてを見る',
+    'friend:requests' => '友達リクエスト',
+    'ossn:notifications:friendrequest:confirmbutton' => '承認する',
+    'ossn:notifications:friendrequest:denybutton' => '承認しない',
 	
-    'ossn:notification:mark:read:success' => 'Successfully marked all as read',
-    'ossn:notification:mark:read:error' => 'Can not mark all as read',
+    'ossn:notification:mark:read:success' => 'すべてを既読としてマークしました',
+    'ossn:notification:mark:read:error' => 'すべてを既読にすることができませんでした。',
     
-    'ossn:notifications:mark:as:read' => 'Mark all as read',
+    'ossn:notifications:mark:as:read' => 'すべて既読にする',
 );
 ossn_register_languages('ja', $ja); 
