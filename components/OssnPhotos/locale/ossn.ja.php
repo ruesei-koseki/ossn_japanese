@@ -10,29 +10,29 @@
  */
 
 $ja = array(
-    'album:name' => 'Album Name',
-    'add:album' => 'Add Album',
-    'photo:select' => 'Select Photo',
-    'no:albums' => 'No Albums',
-    'no:photos' => 'No Photos',
-    'back:to:album' => 'Back to Album',
-    'photo:albums' => 'Photo Albums',
+    'album:name' => 'アルバム名',
+    'add:album' => 'アルバムを追加',
+    'photo:select' => '写真を選択',
+    'no:albums' => 'アルバムがありません。',
+    'no:photos' => '写真がありません。',
+    'back:to:album' => 'アルバムに戻る',
+    'photo:albums' => 'フォトアルバム',
 	
-    'photo:deleted:success' => 'Photo successfully deleted!',
-    'photo:delete:error' => 'Cannot delete photo! Please try again later.',
+    'photo:deleted:success' => '写真を削除しました！',
+    'photo:delete:error' => '写真を削除できません！ 後でもう一度やり直してください。',
 	
-    'photos' => 'Photos',
-    'back' => 'Back',
-    'add:photos' => 'Add photos',
-    'delete:photo' => 'Delete photo',
+    'photos' => '写真',
+    'back' => '戻る',
+    'add:photos' => '写真を追加',
+    'delete:photo' => '写真を削除',
 	
-    'covers' => 'Covers',
-    'cover:view' => 'Cover View',
-    'profile:covers' => 'Profile Covers',
-	'delete:album' => 'Delete Album',
+    'covers' => 'カバー',
+    'cover:view' => 'カバービュー',
+    'profile:covers' => 'プロフィールカバー',
+	'delete:album' => 'アルバムを削除',
 	
-	'photo:album:deleted' => 'Photo album successfully deleted',
-	'photo:album:delete:error' => 'Can not delete photo album',
+	'photo:album:deleted' => 'アルバムを削除しました。',
+	'photo:album:delete:error' => 'アルバムを削除できませんでした。',
 	
 
 );
