@@ -38,8 +38,8 @@ $ja = array(
 
     'group:memb:remove' => '削除する',
     'group:memb:make:owner' => 'グループ所有者にする',
-    'group:memb:make:owner:confirm' => 'Attention! This action will make >> %s << the new owner of the group and you will lose all of your group admin privileges. Are you sure to proceed?',
-    'group:memb:make:owner:admin:confirm' => 'Attention! This action will make >> %s << the new owner of the group and the former owner will lose all of his group admin privileges. Are you sure to proceed?',
+    'group:memb:make:owner:confirm' => '注意！ このアクションにより、>> %s <<がグループの新しい所有者になり、グループ管理者権限がすべて失われます。 続行しますか？',
+    'group:memb:make:owner:admin:confirm' => '注意！ このアクションにより、>> %s <<がグループの新しい所有者になり、前の所有者はグループ管理者特権をすべて失います。 続行しますか？',
     'leave:group' => 'グループを離れる',
     'join:group' => 'グループに参加する',
     'total:members' => '総会員',
