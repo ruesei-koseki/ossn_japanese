@@ -9,13 +9,13 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $ja = array(
-    'user:blocked' => 'User has been blocked!',
-    'user:block:error' => 'Cannot block user! Please try again later.',
-    'user:block' => 'Block',
-    'user:unblock' => 'Unblock',
-    'user:unblocked' => 'User has been unblocked',
-    'user:unblock:error' => 'Can not unblock user',
-    'ossn:blocked:error' => 'Blocked',
-    'ossn:blocked:error:note' => 'You can not view this page because you have been blocked by the user.',
+    'user:blocked' => 'ユーザーがブロックされました!',
+    'user:block:error' => 'ユーザーがブロックできませんでした。後でもう一度試してください。',
+    'user:block' => 'ブロック',
+    'user:unblock' => 'ブロック解除',
+    'user:unblocked' => 'ユーザーのブロックが解除されました',
+    'user:unblock:error' => 'ユーザーのブロックを解除できません',
+    'ossn:blocked:error' => 'ブロックされました',
+    'ossn:blocked:error:note' => '他のユーザーによってブロックされているため、このページを表示できません。',
 );
 ossn_register_languages('ja', $ja); 
