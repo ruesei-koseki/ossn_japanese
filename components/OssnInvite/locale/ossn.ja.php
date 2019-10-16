@@ -17,28 +17,28 @@ $ja = array(
 	'com:ossn:invite:message' => 'メッセージ',
 		
     	'com:ossn:invite:mail:subject' => 'Invitation to join %s',	
-    	'com:ossn:invite:mail:message' => 'You have been invited to join %s by %s. They included the following message:
+    	'com:ossn:invite:mail:message' => '%sによって%sに参加するよう招待されました。 次のメッセージが含まれていました。
 
 %s
 
-To join, click the following link:
+参加するには、次のリンクをクリックしてください。
 
 %s
 
-Profile link: %s
+プロフィールリンク：%s
 ',	
-	'com:ossn:invite:mail:message:default' => 'Hi,
+	'com:ossn:invite:mail:message:default' => 'こんにちは、
 
-I wanted to invite you to join my network here on %s.
+私はここ%sに招待します。
 
-Profile link : %s
+プロフィールリンク：%s
 
-Best regards.
+宜しくお願いします。
 %s',
-	'com:ossn:invite:sent' => 'Your friends were invited. Invites sent: %s.',
-	'com:ossn:invite:wrong:emails' => 'The following addresses are not valid: %s.',
-	'com:ossn:invite:sent:failed' => 'Cannot invite the following addresses: %s.',
-	'com:ossn:invite:already:members' => 'The following addresses are already members: %s',
-	'com:ossn:invite:empty:emails' => 'Please add at least one email address',
+	'com:ossn:invite:sent' => '友達が招待されました。 送信された招待状： %s.',
+	'com:ossn:invite:wrong:emails' => '次のアドレスは無効です： %s.',
+	'com:ossn:invite:sent:failed' => '次のアドレスを招待できません： %s.',
+	'com:ossn:invite:already:members' => '次のアドレスは既にメンバーです： %s',
+	'com:ossn:invite:empty:emails' => '少なくとも1つのメールアドレスを追加してください',
 );
 ossn_register_languages('ja', $ja); 
