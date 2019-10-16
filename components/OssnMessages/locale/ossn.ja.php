@@ -10,11 +10,11 @@
  */
 $ja = array(
     'user:messages' => 'メッセージ',
-    'inbox' => 'Inbox',
-    'send' => 'Send',
-    'ossn:message:between' => 'Messages %s',
-    'messages' => 'Messages',
-    'message:placeholder' => 'Enter text here',
+    'inbox' => 'インボックス',
+    'send' => '追加',
+    'ossn:message:between' => 'メッセージ %s',
+    'messages' => 'メッセージ',
+    'message:placeholder' => 'ここにテキストを入力してください',
     'no:messages' => 'メッセージはありません',
 	'ossnmessages:deleted' => 'メッセージを削除',
 );
