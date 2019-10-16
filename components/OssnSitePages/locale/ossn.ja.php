@@ -9,13 +9,13 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $ja = array(
-    'ossnsitepages' => 'Site Pages',
-    'site:privacy' => 'Privacy',
+    'ossnsitepages' => 'サイトページ',
+    'site:privacy' => 'プライバシーポリシー',
     'site:about' => 'About',
-    'site:terms' => 'Terms and Conditions',
+    'site:terms' => '利用規約',
 
-    'page:saved' => 'Page saved successfully!',
-    'page:save:error' => 'Cannot save page! Please try again later.',
+    'page:saved' => 'ページを保存しました！',
+    'page:save:error' => 'ページを保存できません！ 後でもう一度やり直してください。',
 
 );
 ossn_register_languages('ja', $ja); 
