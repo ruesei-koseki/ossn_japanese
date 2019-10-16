@@ -252,7 +252,7 @@ $ja = array(
 	'site:timepassed:text' => '%s ago',
 	// localization of passed time: 16 time elements (even = singular / odd = plural)
 	'site:timepassed:data' => 'second|seconds|minute|minutes|hour|hours|day|days|week|weeks|month|months|year|years|decade|decades',
-	'ossn:notification:no:notification' => '何も見せない',
+	'ossn:notification:no:notification' => '表示するデータはありません。',
 	'admin:button:enable' => '有効にする',
 	'admin:button:enabled' => '有効化',
 	'admin:button:disable' => '無効にする',
@@ -354,7 +354,7 @@ $ja = array(
 	"it" => "Italian",
 	"iu" => "Inuktitut",
 	"iw" => "Hebrew (obsolete)",
-	"ja" => "Japanese",
+	"ja" => "日本語",
 	"ji" => "Yiddish (obsolete)",
 	"jw" => "Javanese",
 	"ka" => "Georgian",
