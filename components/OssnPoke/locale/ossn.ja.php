@@ -12,6 +12,6 @@ $ja = array(
     'ossn:notifications:ossnpoke:poke' => "%s さんがあなたのほっぺををつんつんしました！",
     'user:poked' => '%s さんのほっぺをつんつんしました。!',
     'user:poke:error' => '%s さんのほっぺをつんつんすることができませんでした。 後でもう一度やり直してください。',
-    'poke' => 'つんつんする',
+    'poke' => 'つんつん',
 );
 ossn_register_languages('ja', $ja); 
