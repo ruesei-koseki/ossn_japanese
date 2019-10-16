@@ -9,9 +9,9 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $ja = array(
-    'ossn:notifications:ossnpoke:poke' => "%s has poked you!",
-    'user:poked' => 'You have poked %s!',
-    'user:poke:error' => 'Cannot poke %s! Please try again later.',
-    'poke' => 'Poke',
+    'ossn:notifications:ossnpoke:poke' => "%s さんがあなたのほっぺをを突きました！",
+    'user:poked' => '%s さんのほっぺを突きました。!',
+    'user:poke:error' => '%s さんのほっぺを突くことができませんでした。 後でもう一度やり直してください。',
+    'poke' => 'ほっぺを突く',
 );
 ossn_register_languages('ja', $ja); 
