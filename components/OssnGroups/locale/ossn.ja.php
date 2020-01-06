@@ -66,5 +66,8 @@ $ja = array(
 	
 	'group:deleted' => 'グループおよびグループのコンテンツが削除されました',
 	'group:delete:fail' => 'グループを削除できませんでした',	
+	'group:delete:cover' => 'カバーを削除',
+	'group:delete:cover:error' => 'カバー画像の削除中にエラーが発生しました',
+	'group:delete:cover:success' => 'カバーは正常に削除されました。',
 );
 ossn_register_languages('ja', $ja); 
