@@ -21,5 +21,7 @@ $ja = array(
 		'ossn:smilies:admin:settings:compat:on' => '有効',
 		'ossn:smilies:admin:settings:save:error' => '設定を保存できません！ error_logファイルを確認してください。',
 		'ossn:smilies:admin:settings:saved' => '設定を保存しました！',
+		'ossn:smilies:admin:settings:close_anywhere:title' => 'どこかをクリックしてスマイリーボックスを閉じる',
+		'ossn:smilies:admin:settings:close_anywhere:note' => 'ページ上の任意の場所をクリックして、スマイリーセレクターボックスを閉じます',
 );
 ossn_register_languages('ja', $ja);
