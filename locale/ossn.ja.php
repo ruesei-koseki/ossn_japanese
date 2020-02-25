@@ -440,7 +440,7 @@ $ja = array(
 	"yo" => "Yoruba",
 	"za" => "Zuang",
 	"zh" => "Chinese",
-	"zu" => "Zulu"
+	"zu" => "Zulu",
 	"ossn:admin:settings:off" => "無効",
 	"ossn:admin:settings:on" => "有効"
 );
