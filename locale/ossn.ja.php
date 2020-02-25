@@ -441,5 +441,7 @@ $ja = array(
 	"za" => "Zuang",
 	"zh" => "Chinese",
 	"zu" => "Zulu"
+	"ossn:admin:settings:off" => "無効",
+	"ossn:admin:settings:on" => "有効"
 );
 ossn_register_languages('ja', $ja);
