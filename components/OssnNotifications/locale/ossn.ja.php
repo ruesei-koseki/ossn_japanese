@@ -24,17 +24,19 @@ $ja = array(
     'ossn:notifications:comments:entity:file:profile:cover' => "%s さんがあなたのプロフィールカバーにコメントしました。",
 
     'ossn:notifications:like:post:group:wall' => '%s さんがあなたのグループの投稿にいいね！しました。',
-	
+
     'ossn:notification:delete:friend' => '友達リクエストを削除しました！',
     'notifications' => '通知',
     'see:all' => 'すべてを見る',
     'friend:requests' => '友達リクエスト',
     'ossn:notifications:friendrequest:confirmbutton' => '承認する',
     'ossn:notifications:friendrequest:denybutton' => '承認しない',
-	
+
     'ossn:notification:mark:read:success' => 'すべてを既読としてマークしました',
     'ossn:notification:mark:read:error' => 'すべてを既読にすることができませんでした。',
-    
+
     'ossn:notifications:mark:as:read' => 'すべて既読にする',
+    'ossn:notifications:admin:settings:close_anywhere:title' => 'どこかをクリックして通知ウィンドウを閉じます',
+    'ossn:notifications:admin:settings:close_anywhere:note' => 'ページ上の任意の場所をクリックして、通知ウィンドウを閉じます'
 );
-ossn_register_languages('ja', $ja); 
+ossn_register_languages('ja', $ja);
